@@ -1,0 +1,55 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`button click work correctly 1`] = `
+<button
+  className="sc-bcXHqe bcTVIz"
+  onClick={[Function]}
+>
+  test
+</button>
+`;
+
+exports[`button correctly 1`] = `
+<button
+  className="sc-bcXHqe bcTVIz"
+  onClick={[Function]}
+>
+  test
+</button>
+`;
+
+exports[`renders button correctly 1`] = `
+<button
+  className="sc-bcXHqe bcTVIz"
+  onClick={[Function]}
+>
+  test
+</button>
+`;
+
+exports[`renders button correctly 2`] = `
+<button
+  className="sc-bcXHqe bcTVIz"
+  onClick={[Function]}
+>
+  test
+</button>
+`;
+
+exports[`renders card correctly 1`] = `
+<button
+  className="sc-bcXHqe bcTVIz"
+  onClick={[Function]}
+>
+  test
+</button>
+`;
+
+exports[`test button click 1`] = `
+<button
+  className="sc-bcXHqe bcTVIz"
+  onClick={[Function]}
+>
+  test
+</button>
+`;
